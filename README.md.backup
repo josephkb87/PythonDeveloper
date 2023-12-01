@@ -1,0 +1,46 @@
+<<<<<<< Updated upstream
+## This Python Basics Repo
+Covers some of the Python Language Basics covered at the elementary level.
+
+The code and examples are solely for purposes of experimentation.
+Higlighted are some of the errors and mistakes elementary level Python programmers make.
+I hope i am corrected where mistakes are made  and also collaborate, and learn more 
+
+
+### Covered Include;
+#### Starter Basics
+- These cover the application of python Starter Programming Basics
+
+#### OOP Basics
+- These cover the application of Object Oriented Programming Basics
+
+#### Application and Worked Examples
+These cover the application of the Basics in the examples. Like;
+ - Basic Commands & Syntax on datatpyes , comments indentation
+ - Input, Output and Operators on Variables and types(Relational and logical operators)
+ - Array , Linear & Matrix Operations.
+ - strings,integers lists Tuples Dictionaries and user input and slicing.
+ 
+
+### Application & Worked Examples include;
+- Making a Digital Clock.
+- Making a Currency Converter (Single/Multi Currency).
+- Making a Music App that plays mp3 music(offline).
+- Making a Basic Music App Python that plays music online
+- Making a Loan Calculator For Banking System.
+- Making Basic Personal Snake Game
+- Making a Hotel Management System
+- Making BasicImageSliderUsingTkinter_Python.
+- Making Converting CSV to Excel with Python
+- Making Coeficient_Calculator
+ - Making an Easy Port scanner program Python
+ - Extract text from PDF File using Python
+ - Finding Volume of a Sphere Python
+ - Making Hotel Management System Python.
+ - Making Credit Card Generator For Banking System Python
+ - Jpg To Pdf Converter Python
+ - Pdf to Jpg Converter Python
+ - Making a Multiple Currency Converter.
+ - Making a QR Code Generator(with other properties like social media and more).
+ - Sending Emails (Single or Multiple Once)with Python
+ 
