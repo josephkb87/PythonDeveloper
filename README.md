@@ -1,8 +1,7 @@
 
-##   Hi, 👋. Welcome to PythonBasics.
+##   Hi, 👋. Welcome to PythonDeveloper
 
  <div>
-
 <a href="https://github.com/josephkb87/josephkb87">About Me.</a>
 <a href="https://josephkb87.github.io">My Github site.</a>
 <a href="https://linktr.ee/jungbasher87">My Socials.</a>
@@ -23,39 +22,44 @@ I hope i am corrected where mistakes are made  and also collaborate, and learn m
 ### Starter Basics
 These cover the application of python Starter Programming Basics
 
-### OOP Basics
-These cover the application of Object Oriented Programming Basics
+Python Developer Journey.
 
-### Application and Worked Examples
-These cover the application of the Basics in the examples. Like;
- * Basic Commands & Syntax on datatpyes , comments indentation
- * Input, Output and Operators on Variables and types(Relational and logical operators)
- * Array , Linear & Matrix Operations.
- * strings,integers lists Tuples Dictionaries and user input and slicing.
- 
+This work my Python Developr Journey.
 
-## <a href="https://github.com/josephkb87/PythonBasics/tree/main/Application%20And%20Worked%20Examples">Application & Worked Examples</a>;
-- [DigitalClock](https://github.com/josephkb87/PythonBasics/tree/main/Application%20And%20Worked%20Examples/DigitalClock).
-- [Multiple Currency Converter](https://github.com/josephkb87/PythonBasics/tree/main/Application%20And%20Worked%20Examples/CurrencyConverter)
-- [Music App that plays mp3 music(offline & online)]()
-- [Loan Calculator](https://github.com/josephkb87/PythonBasics/blob/main/Application%20And%20Worked%20Examples/LoanCalculator/Loan%20Calculator%20for%20Banking%20System%202/LoanCalculator.py)  
-- Snake Game
-- Basic Image Slider (Tkinter)
-- Converter CSV to Excel 
-- Making Coeficient_Calculator
-- Easy Port scanner program 
-- Extract text from PDF File 
-- Finding Volume of a Sphere
-- Jpg To Pdf Converter 
-- Pdf to Jpg Converter 
-- QR Code Generator
-- Sending Emails with Python
+Something i think, i had to do, from Scratch.
+
+Feel free to throw something at me.[My Profile](https://github.com/josephkb87/)
+
+### [Documentation](https://github.com/josephkb87/PythonDeveloper/docs)
+
+### [References/Literature](https://github.com/josephkb87/PythonDeveloper/docs/references)
+
+### [PRIVACY](https://github.com/josephkb87/PythonDeveloper/docs/privacy)
+
+### [LICENSE](https://github.com/josephkb87/PythonDeveloper/docs/LICENSE)
+
+### [Attibution(s)]()
+
+
+### [Contibute]()
 
 <div>
 Tell me you like this project or how it helped you out!
 
-## Contribute
  [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
 </div>
 
+Copyright (c) the respective contributors, as shown by the AUTHORS file.
 
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
