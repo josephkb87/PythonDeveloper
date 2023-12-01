@@ -1,7 +1,6 @@
+## Hi, 👋.  <a href="https://github.com/josephkb87/PythonDeveloper/tree/main)">Python Developer</a>
 
-##   Hi, 👋. Welcome to PythonDeveloper
-
- <div>
+<div>
 <a href="https://github.com/josephkb87/josephkb87">About Me.</a>
 <a href="https://josephkb87.github.io">My Github site.</a>
 <a href="https://linktr.ee/jungbasher87">My Socials.</a>
@@ -9,46 +8,27 @@
 <a href="https://github.com/josephkb87?tab=projects">My Projects.</a>
 </div>
 
-## <a href="https://github.com/josephkb87/PythonBasics/tree/main)">PythonBasics</a>
-This work Covers some of the Python Language Basics covered at the elementary level.
+ ### Python Developer
+``This work covers my Python Developer Journey. Something I have been working on, from Scratch.``
 
-The code and examples are solely for purposes of experimentation.
-Higlighted are some of the errors and mistakes elementary level Python programmers make.
-I hope i am corrected where mistakes are made  and also collaborate, and learn more 
+This [Python Developer](https://github.com/users/josephkb87/projects/11) work is also apart of [My Projects](https://github.com/josephkb87?tab=projects).
 
+Feel free to throw something at [me here](https://github.com/josephkb87/)
 
-### Covered Include;
+### Documentation
 
-### Starter Basics
-These cover the application of python Starter Programming Basics
+Please check the [docs](https://github.com/josephkb87/PythonDeveloper/docs).
 
-Python Developer Journey.
+### References/Literature
 
-This work my Python Developr Journey.
-
-Something i think, i had to do, from Scratch.
-
-Feel free to throw something at me.[My Profile](https://github.com/josephkb87/)
-
-### [Documentation](https://github.com/josephkb87/PythonDeveloper/docs)
-
-### [References/Literature](https://github.com/josephkb87/PythonDeveloper/docs/references)
-
-### [PRIVACY](https://github.com/josephkb87/PythonDeveloper/docs/privacy)
-
-### [LICENSE](https://github.com/josephkb87/PythonDeveloper/docs/LICENSE)
-
-### [Attibution(s)]()
+Reference literature is found in the [references](https://github.com/josephkb87/PythonDeveloper/docs/references.md)
 
 
-### [Contibute]()
+### [Privacy](https://github.com/josephkb87/PythonDeveloper/docs/privacy.md)
 
-<div>
-Tell me you like this project or how it helped you out!
+### LICENSE(s)
 
- [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
-</div>
-
+Licenses are in the [LICENSE(S)](https://github.com/josephkb87/PythonDeveloper/docs/LICENSE)
 Copyright (c) the respective contributors, as shown by the AUTHORS file.
 
 This program is free software: you can redistribute it and/or modify
@@ -63,3 +43,19 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+### Attibution(s)
+This work would not exist without the following [Attribution(s)](https://github.com/josephkb87/PythonDeveloper/docs/attributions.md)
+
+## Disclaimer 
+
+The code and examples are for purposes of experimentation.
+I hope i am corrected where mistakes are made  and also collaborate, and learn more.
+
+### [Contibute](https://github.com/josephkb87/PythonDeveloper/I)
+
+<div>
+Tell me you like this project or how it helped you out!
+
+ [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
+</div>
