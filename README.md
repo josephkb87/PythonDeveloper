@@ -1,4 +1,4 @@
-Hi, 👋.  <a href="https://github.com/josephkb87/PythonDeveloper/tree/main)">Python Developer</a>
+Hi, 👋.  <a href="https://github.com/josephkb87/PythonDeveloper/tree/main">Python Developer</a>
 
 <div>
           <a href="https://github.com/josephkb87/josephkb87">About Me.</a>
@@ -34,10 +34,7 @@ Licenses are in the [LICENSE(s)](https://github.com/josephkb87/PythonDeveloper/d
 ### [Contribute](https://github.com/josephkb87/PythonDeveloper/I)
 
 <div>
-Tell me you like this project or how it helped you out!
+Tell me how the project helped you out!
 
  [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
 </div>
-
-### Disclaimer
-``The code and examples are solely for purposes of academic purposes.`` 
