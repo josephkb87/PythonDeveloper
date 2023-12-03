@@ -41,6 +41,3 @@ Tell me you like this project or how it helped you out!
 
 ### Disclaimer
 ``The code and examples are solely for purposes of academic purposes.`` 
-
-~~
-@josephkb87
