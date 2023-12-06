@@ -36,8 +36,6 @@ Licenses are in the [LICENSE(s)](https://github.com/josephkb87/PythonDeveloper/d
 
 ### [Contribute](https://github.com/josephkb87/PythonDeveloper/I)
 
-<div>
-Better!
- [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
+Tell me how the project helped you out!Better!
+[Comment in the project's guestbook](https://github.com/josephkb87/PythonDeveloper/issues/) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
 </div>
-
