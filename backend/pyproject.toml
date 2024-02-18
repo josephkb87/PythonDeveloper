@@ -1,0 +1,25 @@
+[tool.poetry]
+
+name = "random-quote-generator"
+version = "0.1.0"
+description = "\"Simple Random Quote Generator\""
+authors = ["josephkb87 <73903994+josephkb87@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "\"^3.10\""
+
+=======
+name = "Simple Random Quote Generator"
+version = "0.1.0"
+description = ""
+authors = ["KIYINI Joseph Balamazze <73903994+josephkb87@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
