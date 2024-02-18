@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="000998bd-d416-4d1d-a597-c398736ec18f" name="DeploymentServer" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\U\Desktop\PyDevDepServer" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

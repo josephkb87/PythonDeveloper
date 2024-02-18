@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="Git4Idea" />
+    <plugin id="HtmlTools" />
+    <plugin id="JavaScript" />
+    <plugin id="NodeJS" />
+    <plugin id="Pythonid" />
+    <plugin id="com.intellij" />
+    <plugin id="com.intellij.bigdatatools" />
+    <plugin id="com.intellij.bigdatatools.core" />
+    <plugin id="com.intellij.configurationScript" />
+    <plugin id="com.intellij.copyright" />
+    <plugin id="com.intellij.css" />
+    <plugin id="com.intellij.database" />
+    <plugin id="com.intellij.diagram" />
+    <plugin id="com.intellij.plugins.github.colorscheme" />
+    <plugin id="com.intellij.plugins.watcher" />
+    <plugin id="com.intellij.tasks.timeTracking" />
+    <plugin id="com.jetbrains.codeWithMe" />
+    <plugin id="com.jetbrains.performancePlugin" />
+    <plugin id="com.jetbrains.performancePlugin.async" />
+    <plugin id="com.jetbrains.pycharm.pro.customization" />
+    <plugin id="com.jetbrains.python.sharedIndexes.downloadable" />
+    <plugin id="com.jetbrains.sh" />
+    <plugin id="com.jetbrains.writerside" />
+    <plugin id="intellij.webpack" />
+    <plugin id="mobi.hsz.idea.gitignore" />
+    <plugin id="org.editorconfig.editorconfigjetbrains" />
+    <plugin id="org.intellij.intelliLang" />
+    <plugin id="org.intellij.plugins.markdown" />
+    <plugin id="org.jetbrains.completion.full.line" />
+    <plugin id="org.jetbrains.plugins.docker.gateway" />
+    <plugin id="org.jetbrains.plugins.github" />
+    <plugin id="org.jetbrains.plugins.localization" />
+    <plugin id="org.jetbrains.plugins.node-remote-interpreter" />
+    <plugin id="org.jetbrains.plugins.terminal" />
+    <plugin id="org.jetbrains.plugins.yaml" />
+    <plugin id="ru.adelf.idea.dotenv" />
+    <plugin id="training" />
+  </component>
+</project>
