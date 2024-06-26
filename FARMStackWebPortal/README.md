@@ -1,6 +1,6 @@
-The original README.md of this Webservportal is at [README.md](./docs/README.md)
+The original README.md of this Webservportal is at [README.md](/docs/README.md)
 
-The original [README.md](.../docs/README.md) exists alone.
+The original [README.md](./docs/README.md) exists alone.
 
 All documents reference the [Scratchpad](./docs/Scratchpad2.md)
 the project utilised the following;
