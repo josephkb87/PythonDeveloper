@@ -1,55 +1,13 @@
-## README.md 
+# F.A.R.M Stack WebPortal 
 
-This is the original README.md of the Webservportal [README.md](D:\FARMStack\Webservportalproject\docs\README.md).
+Disclaimer:
+1. `` This README file is susceptible to repetitions/misinterpretations and incorrect syntax or semantics in code and flow of execution. It is the aim of this work that you try where you can, make corrections. If you are reading or working with this. Please clean it up.`` 
 
-### ``Disclaimer:`` This README file susceptible to repetitions. It is the aim of this work that i try where i can. If you are reading or working with this.Please clean it up.
+2. `` This project was built using Open Source Software tools.The code, examples and materials and software tools in this project are solely for purposes of my academic Thesis.``
 
-Thank you for sharing this Source Software tools.
-``The code, examples and materials and software tools in this project are solely for purposes of my academic Thesis``
+This is the original README.md of the Webservportal [README.md](/Webservportalproject/docs/README.md).
 
-## What?
-A WebService Portal 
-
-
-## Setup
-WebServicePortal [README.md](D:\FARMStack\Webservportalproject\docs\README.md)
-
-## BackEnds
-## Mongodb BackEnds
-
-## Database Setup
-#### Create database and add data documents
-* Download from Mongodb 
-  - Community Monogodb Setup 
-  - MOngodbAtlas Connector
-* Login to mongodbaccount
-* Connect Your Mongodb account + MOngodbAtlas Connector to localhost
-
-#### Insert Data Documents
-[Insert Data into the database](https://www.mongodb.com/docs/compass/current/documents/insert/)
-
-## What does it Do?
-* The backend authenticates and users to the database.
-* This is done by connecting the app backends to the database.
-This FARM Stack Implementation of a government services portal.For citizens and officials for service provision.
-
-## How does it work?
-* Consists of login & Registration Portal for Government Officials and Citizens where each serves a function or purpose for service delivery.
-Officials have access to a services portal and citizens also.
-Once logged in each user has a dashboard.
-
-## Parts
-* Database Setup
-
-  * Customizable database backend because we are using MongoDB DB and NOT SQLAlchemy, we will use MongoDB with Beanie ODM included and not ORM async included.
-* JWT Authentication
-
-
-#### `` Disclaimer:`` This project was built using Open Source Software tools.
-The code, examples and materials and software tools in this project are solely for purposes of my academic Thesis.´´´´
-
-
-### Problem Statement
+## Problem Statement
 
 Citizens of Country A are moving from an analogue systems and services provision to a new digital services and systems provisioning system.
 In order to have a streamlined means of services provision from the government, there is a requirement for a WebServices Portal, 
@@ -67,7 +25,7 @@ This ´´[WebServicesPortal Project](#addlinkhere)`` work is apart of [Thesis](.
 ### Stack
 
 * This Project was build using the [F.A.R.M](https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/) 
-``The FARM stack is FastAPI, React, and MongoDB. F.A.R.M stands for -The FastAPI, ASGI,React,MongoDB``
+`` The FARM stack is FastAPI, React, and MongoDB. F.A.R.M stands for -The FastAPI, ASGI,React,MongoDB ``
 - [web framework](#) - FastAPI for the back end.
 - [Web Server](#) - ASGI for the Web Server
 - [User admin and Registration](#) - React for the front end.
@@ -76,12 +34,72 @@ This ´´[WebServicesPortal Project](#addlinkhere)`` work is apart of [Thesis](.
 - [Beanie ODM for Mongodb Backend Database](#) -  or [SQLAlchemy for SQLBackend Database](#)
 
 
+## Setup
+WebServicePortal [README.md](./Webservportalproject/docs/README.md)
+
+SetUp / Install
+
+#### Manual Setup
+
+````
+$ mkdir FARMStack
+$ cd FARMStack
+$ mkdir webservportal
+$ cd webservportal
+$ mkdir backEnd
+$ mkdir frontend
+cd frontend
+$ code .
+$ git init
+$ yarn create react-app frontend --template react-bootstrap
+$ cd backEnd
+$ git init
+$ touch requirements.txt main.py model.py database.py
+````
+
+#### Flow of Execution
+For the Stack to work accordingly, the order in which statements are executed,we must first have a working/Provisioned .Backend so that the frontend is implemented.
+This is because the frontend depends on the backend to implement the whole stack.
+
+
 ### Setup Requirements
 We will requireThe following ;
 * [VSCode/Pycharm/IDE](./requirements.txt")
 * [Python](./requirements.txt")
 * [Mongodb Server](./requirements.txt")
 * [dependencies](./requirements.txt") are required.
+
+
+#### BackEnds
+
+#### Mongodb BackEnds
+
+#### Database Setup
+Create database and add data documents
+* Download from Mongodb 
+  - Community Monogodb Setup 
+  - MOngodbAtlas Connector
+* Login to mongodbaccount
+* Connect Your Mongodb account + MOngodbAtlas Connector to localhost
+
+#### Insert Data Documents
+We will utilise MongoDB documentation to [Insert Data into the database](https://www.mongodb.com/docs/compass/current/documents/insert/)
+
+#### What does it Do?
+* The backend authenticates and users to the database.
+* This is done by connecting the app backends to the database.
+This FARM Stack Implementation of a government services portal.For citizens and officials for service provision.
+
+#### How does it work?
+* Consists of login & Registration Portal for Government Officials and Citizens where each serves a function or purpose for service delivery.
+Officials have access to a services portal and citizens also.
+Once logged in each user has a dashboard.
+
+## Parts
+* Database Setup
+* Customizable database backend because we are using MongoDB DB and NOT SQLAlchemy, we will use MongoDB with Beanie ODM included and not ORM async included.
+* JWT Authentication
+
 
 #### Development
 * Backend
@@ -103,17 +121,15 @@ We will requireThe following ;
 - [Node.js](#) + [React](https://create-react-app.dev/docs/getting-started/)  
 We will utilise the [react-create template](https://create-react-app.dev/docs/getting-started/) to instatiate our frontend.
 
-## Why React for FrontEnd?
+#### Why React for FrontEnd?
 Create React App is an officially supported way to create single-page React applications.
 It offers a modern build setup with no configuration.
-
 
 
 ####  Building, Testing, and Deployment
 [Gradle](https://docs.gradle.org/current/userguide/gradle_basics.html) automates building, testing, and deployment of software from information in build scripts.
 
 #### Build
-
 
 
 For Building our app - [Cmake](#)
@@ -126,27 +142,6 @@ For our API Testing, we will use Postman for API testing of our API.
 
 #### Deployments
 -- NginxUnit - To run our web apps. 
-
-#### Manual Setup
-
-````
-$ mkdir FARMStack
-$ cd FARMStack
-$ mkdir webservportal
-$ cd webservportal
-$ mkdir backEnd
-$ mkdir frontend
-cd frontend
-$ code .
-$ git init
-$ yarn create react-app frontend --template react-bootstrap
-$ cd backEnd
-$ git init
-$ touch requirements.txt main.py model.py database.py
-````
-## Flow of Execution
-For the Stack to work accordingly, the order in which statements are executed,we must first have a working/Provisioned .Backend so that the frontend is implemented.
-This is because the frontend depends on the backend to implement the whole stack.
 
 #### Backend
 
