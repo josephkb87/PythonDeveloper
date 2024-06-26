@@ -19,22 +19,13 @@ The code, examples and material in this project are solely for academic purposes
 
 Feel free to tell me if you liked this project or how it helped you out! [here](https://github.com/josephkb87/blob/issues)
 
-## Documentation
-Please check the [docs](https://github.com/josephkb87/PythonDeveloper/docs).
-
 ## References/Literature
 Reference literature is found in the [references](https://github.com/josephkb87/PythonDeveloper/docs/references.md)
 
-## Privacy
-[Privacy Policy](https://github.com/josephkb87/PythonDeveloper/docs/privacy.md)
+## Projects
+[Python Projects](./pythonprojects).
 
-### Attibution(s)
-This work would not exist without the following [Attribution(s)](https://github.com/josephkb87/PythonDeveloper/docs/attributions.md)
-
-### LICENSE(s)
-Licenses are in the [LICENSE(s)](https://github.com/josephkb87/PythonDeveloper/docs/LICENSE) directory.
-
-### [Contribute](https://github.com/josephkb87/PythonDeveloper/I)
+[Documentation](https://github.com/josephkb87/PythonDeveloper/docs). [Privacy Policy](https://github.com/josephkb87/PythonDeveloper/docs/privacy.md) . [Attribution(s)](https://github.com/josephkb87/PythonDeveloper/docs/attributions.md) . [LICENSE(s)](https://github.com/josephkb87/PythonDeveloper/docs/LICENSE) [Contribute](https://github.com/josephkb87/PythonDeveloper/I)
 
 Tell me how the project helped you out!Better!
 [Comment in the project's guestbook](https://github.com/josephkb87/PythonDeveloper/issues/) :blush:- or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
