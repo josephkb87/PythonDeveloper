@@ -8,14 +8,14 @@ This is the Flow of Execution.md of WebServPortalProject.
 
 
 ## BackEnd README
-For the BackEnd README.md ;see the [BackEnd README.md in docs](href = "D:\FARMStack\Webservportalproject\BackEnd\rEaDmE.mD ") 
+For the BackEnd README.md ;see the [BackEnd README.md in docs](./BackEnd/rEaDmE.mD ") 
 
 
 ## FrontEnd README
-For the FrontEnd README.md; see the [FrontEnd README.md in docs](href = "D:\FARMStack\Webservportalproject\FrontEnd\README.md") 
+For the FrontEnd README.md; see the [FrontEnd README.md in docs](./Webservportalproject/FrontEnd/README.md") 
 
 
-This is the original [README.md](D:\FARMStack\Webservportalproject\docs\README.md)
+This is the original [README.md](./Webservportalproject/docs/README.md)
 
 
 #### References/Literature
@@ -30,17 +30,10 @@ Backends [Flow of Execution](...docs/flowexecution.md) for the BackEnd.
 
 [AddBackend treeflow Snapshot here](##)
 
-
 ````
-
-
-´´´´
-
 ## FrontEnds
 FrontEnds [Flow of Execution](...docs/flowexecution.md) for the FrontEnd.
 
-
-````
 my-app
 ├── README.md
 ├── node_modules
@@ -62,8 +55,9 @@ my-app
 ├── logo.svg
 ├── serviceWorker.js #can be removed
 └── setupTests.js #can be removed
-´´´´
+````
 
+ 
 # Deployments
 
 This  [BuildStructure.md](./docs/buildstructure.md)  for the project utilised the self contained waterfall structure.
