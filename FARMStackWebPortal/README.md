@@ -9,5 +9,5 @@ the project utilised the following;
 ** [Project Structure](./docs/ProjectStructure.md)
 ** [Flow of Execution](./docs/flowofexecution.md)
 
-[README.md](.docs/README.md) .[Changelog](./docs/CHANGELOG.md) . [Documentation](./docs/sphinxdocs/docs/) [Build](./docs/build)
+[README.md](./docs/README.md) .[Changelog](./docs/CHANGELOG.md) . [Documentation](./FARMStackWebPortal/docs/sphinxdocs/docs/) [Build](./FARMStackWebPortal/docs/build)
 
