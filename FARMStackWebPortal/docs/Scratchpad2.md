@@ -4,30 +4,30 @@ Scratchpad
 # About
 This scratchpad exists as evidence for purposes of documenting the steps and processes of this work.
 Alot of ideas and information exists here.I choose to add it here for purposes of deisgn, ideation and build of this project.
-It is possible parts of it to be missing for personal reasons of the [AUTHORS](./docs/AUTHORS).
+It is possible parts of it to be missing, removed or changed from time to time for personal reasons  by the [AUTHORS](#).
 
-### Build Structure
+#### Build Structure
 This project was build using the self contained waterfall structure.
 We reference  is at the Project [BuildStructure.md](./docs/buildstructure.md)
 
-### Flow of Execution
-### Build Structure
+####Flow of Execution
+#### Build Structure
 This project was build using the self contained waterfall structure.
 We reference is at the Project [BuildStructure.md](./docs/buildstructure.md)
 
-### Flow of Execution
+## Flow of Execution
 
 #### Backend vs FrontEnd.
 The fundamental way the frontend frameworks interact with the backend is by making HTTP calls via AJAX.
 The typical interface to the backend is a REST API
 
-### Database 
+#### Database 
 PostgreSQL and SQLite are two relation databases, SQLAlchemy is an [ORM](##addlinkhere) which gives you a set of tools for accessing the data in the database.
 
 While [SQLAlchemy](#addlinkhere) is the Python SQL toolkit and Object Relational Mapper that gives us the full power and flexibility of SQL, we will use [Beanie](#addlinkhere) as it works with [MONGODB](#addlinkhere),as it is the database we will use and is an  Object Document Mapper that gives application developers the full power and flexibility of a NoSQL Database.
 
 ## Testing and Building
-### Testing
+#### Testing
 
 FastAPI is an API;that we use or create a tool that would simplify the API testing process. We will utilise [Postman](https://en.wikipedia.org/wiki/Postman_(software)) for testing the app, and all its functionality because Postman is an API platform for building and using APIs that simplifies each step of the API lifecycle.
 
@@ -40,7 +40,7 @@ all the run tests uploaded to the testing directory.
 
 [/build]
 
-### [Deployments](https://fastapi.tiangolo.com/deployment/)
+#### [Deployments](https://fastapi.tiangolo.com/deployment/)
 To deploy an application means to perform the necessary steps to make it available to the users.
 For a web API, it normally involves putting it in a remote machine, with a server program that provides good performance, stability, etc, so that your users can access the application efficiently and without interruptions or problems.
 This is in contrast to the development stages, where we are constantly changing the code, breaking it and fixing it, stopping and restarting the development server, etc.
@@ -65,7 +65,7 @@ Virtual Box is a tool that is used to setup a virtual workspace using images
 + [Vagrant](#addvagrantlinkshere)
 Vagrant is a tool for building and distributing development environments-
 
-### References
+#### References
 
 [Generate Gitignore Files](#addlinkhere)
 
@@ -87,25 +87,19 @@ Vagrant is a tool for building and distributing development environments-
 
 [FastApiUsers](https://fastapi-users.github.io/fastapi-users)
 
-## References
-
-#### Back End
-
-
-#### Front End
 *   [Dash Framework for Python](http://www.dash.plotly.com)
 *   [Getting-started](https://create-react-app.dev/docs/getting-started/)
 *   [Create-React-App](https://github.com/facebook/create-react-app)
 
 *  [Create React Front End](https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-12-react-js-frontend/#theory)
 
-### [Provisioning](#)
+#### [Provisioning](#)
 
 - [Automated](#)
 
 - [Manual](#)
 
-### [Deployments](https://fastapi.tiangolo.com/deployment/)
+#### [Deployments](https://fastapi.tiangolo.com/deployment/)
 Deploying our FastAPI application is relatively easy.
 
 #### Deployment Strategies
@@ -129,7 +123,9 @@ Requirements
 + [Unit](https://unit.nginx.org/howto/integration/)
 
 [Data Visualisation with dash](https://dash.plotly.com/)
+
 ####  Documentation
+
 #### [Redoc API Documentation](https://github.com/Redocly/redoc)
 
 #### [Pycharm Documentation](https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html)
