@@ -1,31 +1,18 @@
 ## README.md 
 
-This is the original README.md of the Webservportal README.md.
+This is the original README.md of the Webservportal [README.md](D:\FARMStack\Webservportalproject\docs\README.md).
 
+### ``Disclaimer:`` This README file susceptible to repetitions. It is the aim of this work that i try where i can. If you are reading or working with this.Please clean it up.
 
-This is the [README.md](D:\FARMStack\Webservportalproject\docs\README.md)
+Thank you for sharing this Source Software tools.
+``The code, examples and materials and software tools in this project are solely for purposes of my academic Thesis``
 
-
-
-### Disclaimer
-
-``This README file is prune to repetitions. It is the aim of this work that i try where i can. If you are reading or working with this.Please clean it up.
-
-Thank you for sharing is Source Software tools.
-``
-``The code, examples and materials and software tools in this project are solely for purposes of my academic Thesis.``
-
-# This is the readme file
-
-## What is It?
-
+## What?
 A WebService Portal 
 
 
 ## Setup
-
-
-WebServicePortal README.md
+WebServicePortal [README.md](D:\FARMStack\Webservportalproject\docs\README.md)
 
 ## BackEnds
 ## Mongodb BackEnds
@@ -57,19 +44,14 @@ Once logged in each user has a dashboard.
   * Customizable database backend because we are using MongoDB DB and NOT SQLAlchemy, we will use MongoDB with Beanie ODM included and not ORM async included.
 * JWT Authentication
 
- 
 
-
-
-#### Disclaimer
-
-````This project was built using Open Source Software tools.
+#### `` Disclaimer:`` This project was built using Open Source Software tools.
 The code, examples and materials and software tools in this project are solely for purposes of my academic Thesis.´´´´
 
 
 ### Problem Statement
 
-Citizens of Cameroon are moving from an analogue systems and services provision to a new digital services and systems provisioning system.
+Citizens of Country A are moving from an analogue systems and services provision to a new digital services and systems provisioning system.
 In order to have a streamlined means of services provision from the government, there is a requirement for a WebServices Portal, 
 where the citizens can utilise the services and the government administrators  using the new digital services provisioning system.
 
@@ -169,18 +151,12 @@ This is because the frontend depends on the backend to implement the whole stack
 #### Backend
 
 
-
 #### FrontEnd.
 The fundamental way the frontend frameworks interact with the backend is by making [HTTP calls](##) via [AJAX](##).
 The typical interface to the backend is a REST API.
 
 
-
-
-
-
 #### Project Status
-
 - [ ] Design
 
 - [ ] MockUps
