@@ -1,8 +1,6 @@
 ## Project Structure
 
-### This [Project Structure](...docs/ProjectStructure.md) is NOT the (
-[Build Structure](...docs/buildStructure.md)
-
+This [Project Structure](...docs/ProjectStructure.md) is NOT the [Build Structure](...docs/buildStructure.md)
 
 #### Project  Structure
  
