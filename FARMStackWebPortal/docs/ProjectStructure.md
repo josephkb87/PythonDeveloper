@@ -86,8 +86,7 @@ For the [Flow of Execution](...docs/flowofexecution.md)
 
 
 
-[README.md](...docs/README.md) .[Changelog](.../docs/CHANGELOG.md) . 
-[Documentation] [Build] (...docs/sphinxdocs/docs/build) 
+[README.md](...docs/README.md)  [Changelog](.../docs/CHANGELOG.md)  [Documentation]  [Build](...docs/sphinxdocs/docs/build) 
 
 
 
